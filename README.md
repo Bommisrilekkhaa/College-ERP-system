@@ -1,1 +1,1 @@
-# A Fluent Python Project alias College ERP Management System !!
+# A Fluent Python Project alias College ERP System !!
